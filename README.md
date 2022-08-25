@@ -1,4 +1,4 @@
-# NatureProject
+# GREEN TRAVEL Project
 Learning and Implementation of Advance CSS and SCSS
 
 1.Download the zip file extract the project in your local machine.
